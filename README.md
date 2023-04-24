@@ -72,4 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # react-todo
 
 <h1> Günlük programlar listesi</h1>
-<p> Gün içerisinde yapacağınız programlarınızı takip edebilirsiniz. Silebilirsini ve düzenleyebilirsiniz.</p>
+<p> Gün içerisinde yapacağınız programlarınızı takip edebilirsiniz. Silebilirsiniz ve düzenleyebilirsiniz!
+.</p>
+<img src ="https://user-images.githubusercontent.com/121401426/234124937-6252f509-a5e1-4b73-b8f9-fc8cda2c63e3.gif" >
